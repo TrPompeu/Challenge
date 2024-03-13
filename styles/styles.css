@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+box-sizing: border-box;
+background-color: #9BBEC8;
+}
+
+.area__texto{
+    padding: 5% 15%;
+    display: flex;
+    justify-content: center;   
+    gap: 2,5rem;
+}
+
+.botoes{
+    background-color: #427D9D;
+    display: flex;
+    justify-content:center;
+    text-align: center;
+}
